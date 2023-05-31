@@ -1,0 +1,2 @@
+# subscribe
+Collecting Email Subscriptions
